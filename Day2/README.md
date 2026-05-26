@@ -1,11 +1,5 @@
 # Day 2 – Going Deeper | Neural Networks and Unsupervised Learning
 
-"What I cannot create, I do not understand."
-
-~ Richard Feynman
-
---
-
 Tuesday, June 9, 2026
 
 * 09:00 AM – 10:00 AM o Going Deep: An Introduction to Convolutional Neural Networks; R Morgan

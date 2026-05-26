@@ -1,11 +1,5 @@
 # Day 3 – The Language of Intelligence | Large Language Models
 
-"The limits of my language mean the limits of my world."
-
-~ Ludwig Wittgenstein
-
---
-
 Wednesday, June 10, 2026
 
 * 09:00 AM – 10:00 AM o Large Language Models; I Ciuca
